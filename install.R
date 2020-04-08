@@ -1,4 +1,4 @@
-library(RJSONIO)
-library(RCurl)
-library("lubridate")
-library(jsonlite)
+install.packages("RJSONIO")
+install.packages("RCurl")
+install.packages("lubridate")
+install.packages(jsonlite)
